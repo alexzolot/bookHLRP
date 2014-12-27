@@ -12,13 +12,6 @@ The project contains a collection of our code snippets, including over fifty R f
 ### Table of Contents
 
 * Preface
-  * About the author	
-  * About the book	
-  * Who can use this book?	
-  * On the Web	
-  * Using the book	
-  * Acknowledgments	
-  * List of Figures
   
 * Chapter 1. Workflow of R Projects	
 
@@ -27,10 +20,10 @@ The project contains a collection of our code snippets, including over fifty R f
   2.2. Internal reports. Code2HTML() or rwj()	
   2.3. Releases. ReleaseOut()	
 
-* Chapter 3. IDE: which to prefer?
-  3.1. RStudio	
-  3.2. Eclipse + StatET	
-  3.3. Other (vim, ess,..)	
+* Chapter 3. IDE: which to prefer?  
+    3.1. RStudio	
+    3.2. Eclipse + StatET	
+    3.3. Other (vim, ess,..)	
   
 * Chapter 4. Naming and style conventions
 	
@@ -45,7 +38,7 @@ The project contains a collection of our code snippets, including over fifty R f
   6.4. Coming back (How to come back and continue to work with a project)	
   6.5. Helper functions to work with R code	
   
-* Chapter 7. R Work Journal
+* Chapter 7. R Work Journal    
   7.1. What is it	
   7.2. How to create it. rwj(), Code2HTML(); MakeRWJournals()	
   7.3. How to create album. Function createRWJalbum()	
@@ -60,11 +53,10 @@ The project contains a collection of our code snippets, including over fifty R f
   8.6. How to work on laptop with additional monitors	
   
 * Chapter 9. Appendix. R code	
-
-    9.1 Package HalaP -	http://github.com/alexzolot/HaLaP
-    9.2 Package RWorkJournal -  http://github.com/alexzolot/RWorkJournal
-    9.3 Example demo_RWJ.r file -  http://alexzolot.github.io/RWJ/demo_RWJ.r.htm
-    9.4 Example demo_HLP project	-  http://alexzolot.github.io/HLP/demo_HLP.r.htm
+    9.1. Package HalaP -	http://github.com/alexzolot/HaLaP  
+    9.2. Package RWorkJournal -  http://github.com/alexzolot/RWorkJournal   
+    9.3. Example demo_RWJ.r file -  http://alexzolot.github.io/RWJ/demo_RWJ.r.htm   
+    9.4. Example demo_HLP project	-  http://alexzolot.github.io/HLP/demo_HLP.r.htm  
   
 * References	
 * Index	
