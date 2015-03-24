@@ -13,38 +13,38 @@ The project contains a collection of our code snippets, including over fifty R f
 
 * Preface
   
-* 1. Workflow of R Projects	
+1. Workflow of R Projects	
 
-* 2. Reporting, Reproducible Research and Literate Programming	
+2. Reporting, Reproducible Research and Literate Programming	
   2.1. External reports. Packages knitr, highlight, brew, R2HTML	
   2.2. Internal reports. Code2HTML() or rwj()	
   2.3. Releases. ReleaseOut()	
 
-* 3. IDE: which to prefer?  
+3. IDE: which to prefer?  
     3.1. RStudio	
     3.2. Eclipse + StatET	
     3.3. Other (vim, ess,..)	
   
-* 4. Naming and style conventions
+4. Naming and style conventions
 	
-* 5. Structure of a project directory	
+5. Structure of a project directory	
   5.1. Package ProjectTemplate	
   5.2. CreateProject()	
   
-* 6. Helper functions to work with a number of large projects	
+6. Helper functions to work with a number of large projects	
   6.1 Our helper functions	
   6.2. Creation demo_HLP project	
   6.3. Leaving (How to leave a project)	
   6.4. Coming back (How to come back and continue to work with a project)	
   6.5. Helper functions to work with R code	
   
-* 7. R Work Journal    
+7. R Work Journal    
   7.1. What is it	
   7.2. How to create it. rwj(), Code2HTML(); MakeRWJournals()	
   7.3. How to create album. Function createRWJalbum()	
   7.4. What is release and function ReleaseOut()
   
-* 8. How to...	
+8. How to...	
   8.1. How to run different tasks in parallel. Working with multiple consoles	
   8.2. How to use your own packages and source files	
   8.3. How to combine R with other scripts: shell, hive, etc. in a project	
@@ -52,7 +52,7 @@ The project contains a collection of our code snippets, including over fifty R f
   8.5. How to work with source control systems	
   8.6. How to work on laptop with additional monitors	
   
-* 9. Appendix. R code	
+9. Appendix. R code	
     9.1. Package HalaP -	http://github.com/alexzolot/HaLaP  
     9.2. Package RWorkJournal -  http://github.com/alexzolot/RWorkJournal   
     9.3. Example demo_RWJ.r file -  http://alexzolot.github.io/RWJ/demo_RWJ.r.htm   
