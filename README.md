@@ -1,4 +1,4 @@
-## Book: Handling Large R Projects (HLRP)
+## Tutorial: Handling Large R Projects (HLRP)
 
 There are many publications on how to solve different data mining, data analysis and modeling tasks in R. Typically a task is a specific procedure to analyze a specific data, e.g. "k-means clustering of iris data", and requires 10-100 lines of R code. Usually the tasks are grouped in projects, e.g. "Analysis of iris data", that could include descriptive statistics, principal component analysis, MDS, clustering, classification, etc., that can require 500-3000 lines of R code.
 
